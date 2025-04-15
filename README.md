@@ -1,6 +1,6 @@
 # Railway Reservation System
 
-This is a console-based Java application for a Railway Reservation System. It allows users to book tickets, cancel reservations, view available trains, and more.
+This is a console-based Java application for a Railway Reservation System. It allows users to book tickets, cancel reservations, view available tickets, and more.
 
 ## Features
 1. Book Ticket
